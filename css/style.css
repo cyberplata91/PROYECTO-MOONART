@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+
+body {
+    background-color: #F4F2F7;
+}
+
+.title-conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a676ef;
+    height: 10vh;
+}

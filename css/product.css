@@ -1,0 +1,33 @@
+
+.product img{
+    padding: 2rem;
+    width: 20rem;
+    height: 20rem;
+}
+
+.product button{
+    background-color: #503459;
+    color: #fff;
+    border-radius: 0.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin-left: 2rem;
+}
+
+.product button:hover{
+    background-color: #7c6085;
+}
+
+.sticker-name{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 2rem;
+    
+}
+.product p{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 1rem;
+}
